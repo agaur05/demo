@@ -1,3 +1,3 @@
 # this is a sample file for testing
 
-# in demo repository of Git
+# in demo repository of Git more
